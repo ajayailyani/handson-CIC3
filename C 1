@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+char string[15];
+clrscr();
+printf("Enter the name:");
+scanf("%s",string[15]);
+printf("Hello %s",string[15]);
+getch();
+}
